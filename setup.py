@@ -5,7 +5,7 @@ from typing import List
 PROJECT_NAME="housing-predictor"
 VERSION="0.0.3"
 AUTHOR="Namdeo Patil"
-DESRCIPTION="This is my first Machine Learning Project"
+DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
